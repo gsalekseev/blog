@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\juniper\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\juniper\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Blog.1603360272.00" t="ExcludeRecursive" />
+    <e p="C:\Users\juniper\RiderProjects\Blog" t="IncludeFlat">
+      <e p="Blog.sln" t="IncludeFlat" />
+      <e p="Blog.Web" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Blog.Web.csproj" t="IncludeRecursive" />
+        <e p="ClientApp" t="Include">
+          <e p=".browserslistrc" t="Include" />
+          <e p=".gitignore" t="Include" />
+          <e p="babel.config.js" t="Include" />
+          <e p="node_modules\@types" t="IncludeRecursive">
+            <e p="events" t="IncludeRecursive" />
+            <e p="minimatch" t="IncludeRecursive" />
+            <e p="node" t="IncludeRecursive" />
+          </e>
+          <e p="node_modules\@vue\cli-plugin-babel" t="IncludeRecursive" />
+          <e p="node_modules\@vue\cli-plugin-router" t="IncludeRecursive" />
+          <e p="node_modules\@vue\cli-plugin-unit-mocha" t="IncludeRecursive" />
+          <e p="node_modules\@vue\cli-plugin-vuex" t="IncludeRecursive" />
+          <e p="node_modules\@vue\cli-service" t="IncludeRecursive" />
+          <e p="node_modules\@vue\component-compiler-utils" t="IncludeRecursive" />
+          <e p="node_modules\@vue\test-utils" t="IncludeRecursive" />
+          <e p="node_modules\address" t="IncludeRecursive" />
+          <e p="node_modules\chai" t="IncludeRecursive" />
+          <e p="node_modules\chalk" t="IncludeRecursive" />
+          <e p="node_modules\cli-highlight" t="IncludeRecursive" />
+          <e p="node_modules\commander" t="IncludeRecursive" />
+          <e p="node_modules\core-js" t="IncludeRecursive" />
+          <e p="node_modules\dotenv" t="IncludeRecursive" />
+          <e p="node_modules\dotenv-expand" t="IncludeRecursive" />
+          <e p="node_modules\javascript-stringify" t="IncludeRecursive" />
+          <e p="node_modules\portfinder" t="IncludeRecursive" />
+          <e p="node_modules\postcss" t="IncludeRecursive" />
+          <e p="node_modules\postcss-selector-parser" t="IncludeRecursive" />
+          <e p="node_modules\sass" t="IncludeRecursive" />
+          <e p="node_modules\sass-loader" t="IncludeRecursive" />
+          <e p="node_modules\source-map" t="IncludeRecursive" />
+          <e p="node_modules\terser" t="IncludeRecursive" />
+          <e p="node_modules\vue" t="IncludeRecursive" />
+          <e p="node_modules\vue-cli-plugin-vuetify" t="IncludeRecursive" />
+          <e p="node_modules\vue-loader" t="IncludeRecursive" />
+          <e p="node_modules\vue-router" t="IncludeRecursive" />
+          <e p="node_modules\vue-template-compiler" t="IncludeRecursive" />
+          <e p="node_modules\vuetify" t="IncludeRecursive" />
+          <e p="node_modules\vuetify-loader" t="IncludeRecursive" />
+          <e p="node_modules\vuex" t="IncludeRecursive" />
+          <e p="node_modules\webpack-chain" t="IncludeRecursive" />
+          <e p="package-lock.json" t="Include" />
+          <e p="package.json" t="Include" />
+          <e p="public" t="Include">
+            <e p="favicon.ico" t="Include" />
+            <e p="index.html" t="Include" />
+          </e>
+          <e p="README.md" t="Include" />
+          <e p="src" t="Include">
+            <e p="App.vue" t="Include" />
+            <e p="assets" t="Include">
+              <e p="banner-01.jpg" t="Include" />
+              <e p="logo.png" t="Include" />
+              <e p="logo.svg" t="Include" />
+            </e>
+            <e p="components" t="Include">
+              <e p="Banner.vue" t="Include" />
+              <e p="Content.vue" t="Include" />
+              <e p="Footer.vue" t="Include" />
+              <e p="Navigation.vue" t="Include" />
+            </e>
+            <e p="main.js" t="Include" />
+            <e p="plugins" t="Include">
+              <e p="vuetify.js" t="Include" />
+            </e>
+            <e p="router" t="Include">
+              <e p="index.js" t="Include" />
+            </e>
+            <e p="store" t="Include">
+              <e p="index.js" t="Include" />
+            </e>
+            <e p="views" t="Include">
+              <e p="About.vue" t="Include" />
+              <e p="Home.vue" t="Include" />
+            </e>
+          </e>
+          <e p="tests" t="Include">
+            <e p="unit" t="Include">
+              <e p="example.spec.js" t="Include" />
+            </e>
+          </e>
+          <e p="vue.config.js" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="WeatherForecastController.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Blog.Web.AssemblyInfo.cs" t="Include" />
+              <e p="Blog.Web.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="Error.cshtml" t="Include" />
+          <e p="Error.cshtml.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WeatherForecast.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
